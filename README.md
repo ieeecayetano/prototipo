@@ -1,2 +1,2 @@
 # prototipo
-este es un prototipo https://ieeebiomedicos.github.io/
+este es un prototipo https://ieeecayetano.github.io/prototipo/
